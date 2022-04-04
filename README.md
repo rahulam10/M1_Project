@@ -1,6 +1,6 @@
 # M1_Project
 
-                                   SIMPLE MOVIE TICKET BOOKING SYSTEM
+                             SIMPLE MOVIE TICKET BOOKING SYSTEM
                                    
 Simple Movie Ticket Booking System is based on the concept of booking movie tickets. There’s no login system available for this system, the user can freely use its feature. This mini project contains limited features, but the essential one.
 
