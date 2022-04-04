@@ -1,1 +1,46 @@
+1. The objective of testing effort  and intended audiences
 
+The objective is to to determine if the software satisfies the business requirements. Besides that, it will identify invalid states 
+and values in the system. After integration of various modules, system integrity will be stressed-tested of its stability. 
+The intended audiences are our clients and our supervisor Mr. Kevin Anthony Jones.
+
+2. Testing strategy
+
+Both verification and validation test
+Constructive test
+testing accomplished by independent test group
+testing conducted independent of debugging
+test scope: unit testing and block testing (due to the limitation of time)
+
+3. Software product overview
+
+The aim of the project is to implement a new online movie ticketing system that enable:
+
+client to book movie online
+client to cancel movie booked
+client to view information of movie available
+client to choose their own seating
+administrator and user to access the same database through online interface
+administrator to organize movie information online
+
+The advantages of this new system are:
+
+database system is integrated as part of the online system
+online database does not need to be duplicated for offline database
+clients can pay and book movie through electronics transaction
+clients have flexibility in choosing the seating they like
+administrator can update online (system) database at real time
+
+3. Test scope and Test plan
+
+Our testing team will only conduct the unit testing and block testing due to the limitation  of time.
+
+For unit test, we will employ both static and dynamic testing techniques. Our basic component is the .java and .jsp file. 
+Since the inspection and compilation has already been done by programmer, we will only do the walkthrough for static testing.
+After that, we will do the white-box testing. The test cases will be derived from basis paths. So they will not be depicted here.
+Our test completion criteria is the basic function of the module and satisfaction for the requirement.
+
+Forthe high level testing, we divide our program into two major block-customer interface and administrator interface. 
+Instead of the focus on technique aspects, our main concern is the micro-behavior of each block. 
+The black box testing will be employed here. We will use equivalence partitioning, boundary value and logic-based testing techniques for 
+Test Data Selection.
